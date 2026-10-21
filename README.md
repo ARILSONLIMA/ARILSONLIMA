@@ -1,60 +1,76 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=Arilson%20Lima&fontSize=46&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20Full-Stack%20%26%20IA&descAlignY=62&descAlign=50" width="100%" />
+  <!-- Header Banner com estética Particles.js e Fundo Preto Dark Tech -->
+  <img src="https://raw.githubusercontent.com/ARILSONLIMA/ARILSONLIMA/main/header.svg" width="100%" alt="Arilson Lima - Engenheiro de Software" />
 
-  <!-- Readme Typing SVG -->
-  <a href="https://arilson.com.br">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%F0%9F%91%8B;Engenheiro+de+Software+%F0%9F%9A%80;Desenvolvimento+Full-Stack+%F0%9F%92%BB;TypeScript%2C+Python%2C+Node.js+%26+Next.js;Arquitetura+de+Agentes+de+IA+%26+Sistemas+Escal%C3%A1veis+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <br/><br/>
 
-  <br/>
-
-  <!-- Profile Views & Social Badges -->
+  <!-- Redes Sociais & Contato -->
   <p align="center">
     <a href="https://arilson.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/Website-arilson.com.br-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-arilson.com.br-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/in/arilsonlima/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Arilson_Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Arilson_Lima-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contato@arilson.com.br">
-      <img src="https://img.shields.io/badge/Email-contato@arilson.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-contato@arilson.com.br-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://api.whatsapp.com/send?phone=5511959632632" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-(11)_95963--2632-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-(11)_95963--2632-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ARILSONLIMA&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=0e75b6&style=flat-square" alt="Visitas ao Perfil" />
+    <img src="https://komarev.com/ghpvc/?username=ARILSONLIMA&label=Visualiza%C3%A7%C3%B5es&color=00f2fe&style=flat-square" alt="Visitas ao Perfil" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 `<span>` Sobre Mim `</span>`
 
-Sou **Engenheiro de Software** focado em desenvolvimento Full-Stack de alta performance, arquitetura de sistemas distribuídos e infraestrutura avançada para **Agentes de Inteligência Artificial**.
+> *Engenheiro de Software com foco no desenvolvimento de sistemas distribuídos de alto desempenho, arquitetura Full-Stack e engenharia de soluções avançadas com Inteligência Artificial.*
 
-Minha trajetória une desenvolvimento sólido de software a resultados práticos no mundo real:
-- 🚀 **Impacto na AlfaRodobus:** Arquitetei pipelines de automação operacional que reduziram processos diários de 40 minutos para 1 clique (**-80% de tempo**) e integrei sistemas de **reconhecimento facial** para controle de acesso biométrico de frotas.
+- 🚀 **Impacto na AlfaRodobus:** Arquitetei pipelines de automação operacional que transformaram processos diários de 40 minutos em apenas **1 clique (-80% de tempo)** e integrei sistemas de **reconhecimento facial** para controle biométrico da frota.
 - 🤖 **Engenharia de IA & Agentes Autônomos:** Desenvolvedor de ferramentas de governança determinística, servidores **MCP (Model Context Protocol)** e motores de economia de tokens para agentes autônomos no Antigravity CLI.
 - 🌐 **Sistemas Distribuídos & Full-Stack:** Desenvolvimento de ponta a ponta com TypeScript, Next.js, Node.js, Python (FastAPI/Django) e microsserviços conteinerizados em Docker.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 `<projects>` Destaques de Engenharia `</projects>`
 
-- 🧠 **[gsd-agy-kit](https://github.com/ARILSONLIMA/gsd-agy-kit) & [spine-kit](https://github.com/ARILSONLIMA):** Kits de engenharia, governança declarativa e runtime MCP de alta performance para agentes autônomos de IA, focados em auto-cura e token economics.
-- ⚡ **[raio-x-da-conta](https://github.com/ARILSONLIMA/raio-x-da-conta):** Plataforma Full-Stack inteligente construída em Next.js e TypeScript para auditoria e simulação de consumo sustentável de recursos com regras de negócio seguras (JWT, Bcrypt).
-- 🛡️ **SSHVPN:** Arquitetura distribuída resiliente para controle de acessos privados, túneis SSH/V2Ray (VMess) com painel central multi-tenant e daemons em servidores VPS Linux.
-- 📋 **GlassKanban:** Aplicação local ultra-rápida com interface Glassmorphism, backend em Express e persistência embarcada em SQLite (`better-sqlite3`).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/ARILSONLIMA/gsd-agy-kit">gsd-agy-kit</a> &amp; spine-kit</h4>
+      <p>Kits nativos de engenharia, governança declarativa e runtime <b>MCP (Model Context Protocol)</b> de alta performance para agentes de IA, focados em auto-cura de fluxos e <i>token economics</i>.</p>
+      <sub><code>Node.js</code> • <code>TypeScript</code> • <code>AI Agents</code> • <code>MCP</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/ARILSONLIMA/raio-x-da-conta">raio-x-da-conta</a></h4>
+      <p>Plataforma Full-Stack inteligente para auditoria, cálculo e simulação de consumo sustentável de recursos com autenticação segura de nível de produção.</p>
+      <sub><code>Next.js</code> • <code>TypeScript</code> • <code>JWT / Bcrypt</code> • <code>Tailwind</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ SSHVPN</h4>
+      <p>Sistema distribuído de alta resiliência para túneis seguros SSH/V2Ray (VMess), painel administrativo central web e orquestração de daemons em servidores Linux.</p>
+      <sub><code>Linux</code> • <code>Docker</code> • <code>Daemons</code> • <code>Networking</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📋 GlassKanban</h4>
+      <p>Aplicação moderna com estética Glassmorphism, backend em Express e persistência embarcada ultrarrápida com SQLite.</p>
+      <sub><code>Express</code> • <code>better-sqlite3</code> • <code>Docker</code> • <code>UI/UX</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ `<stack>` Tecnologias e Ferramentas `</stack>`
 
 #### 💻 Linguagens & Core
 <p align="left">
@@ -90,27 +106,19 @@ Minha trajetória une desenvolvimento sólido de software a resultados práticos
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 `<stats>` Métricas do GitHub `</stats>`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARILSONLIMA&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARILSONLIMA&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ARILSONLIMA&show_icons=true&bg_color=08080c&title_color=00f2fe&text_color=e2e8f0&icon_color=00f2fe&border_color=1f293d" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARILSONLIMA&layout=compact&bg_color=08080c&title_color=00f2fe&text_color=e2e8f0&border_color=1f293d" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <div align="center" style="margin-top: 14px;">
-  <img height="180em" src="https://streak-stats.demolab.com?user=ARILSONLIMA&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-### 💡 Citação Dev
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação Tech" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ARILSONLIMA&background=08080C&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&border=1F293D&stroke=1F293D" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Construído por <b><a href="https://arilson.com.br">Arilson Lima</a></b>. Vamos construir algo incrível juntos! 🚀</sub>
+  <sub>Construído com a estética dark de <b><a href="https://arilson.com.br">arilson.com.br</a></b> • Vamos construir algo incrível juntos! 🚀</sub>
 </div>

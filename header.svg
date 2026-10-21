@@ -1,0 +1,168 @@
+<svg width="100%" height="260" viewBox="0 0 950 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508"/>
+      <stop offset="50%" stop-color="#0a0a10"/>
+      <stop offset="100%" stop-color="#040406"/>
+    </linearGradient>
+
+    <!-- Cyan / Electric Blue Gradient -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+
+    <!-- Subtle Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      .code-tag {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00f2fe;
+        opacity: 0.85;
+      }
+      .name-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 40px;
+        fill: #ffffff;
+        letter-spacing: -0.5px;
+      }
+      .role-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 20px;
+        fill: #94a3b8;
+      }
+      .cursor {
+        font-family: monospace;
+        font-weight: 700;
+        font-size: 22px;
+        fill: #00f2fe;
+        animation: blink 1s infinite;
+      }
+      .sub-desc {
+        font-family: 'Fira Code', 'Segoe UI', monospace;
+        font-size: 13px;
+        fill: #64748b;
+      }
+      .badge-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 11px;
+        fill: #cbd5e1;
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(-6px) translateX(4px); }
+      }
+      @keyframes float2 {
+        0%, 100% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(5px) translateX(-5px); }
+      }
+      .p-drift-1 { animation: float1 6s ease-in-out infinite; }
+      .p-drift-2 { animation: float2 8s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Dark Background Frame -->
+  <rect width="950" height="260" rx="14" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Particles.js Constellation Simulation (Network of connecting lines) -->
+  <g stroke="#ffffff" stroke-width="0.8" opacity="0.16">
+    <!-- Left constellation cluster -->
+    <line x1="60" y1="40" x2="130" y2="80"/>
+    <line x1="130" y1="80" x2="90" y2="150"/>
+    <line x1="90" y1="150" x2="170" y2="190"/>
+    <line x1="170" y1="190" x2="230" y2="120"/>
+    <line x1="230" y1="120" x2="150" y2="50"/>
+    <line x1="130" y1="80" x2="150" y2="50"/>
+    <line x1="60" y1="40" x2="150" y2="50"/>
+    <line x1="170" y1="190" x2="110" y2="230"/>
+    <line x1="90" y1="150" x2="110" y2="230"/>
+
+    <!-- Right constellation cluster -->
+    <line x1="720" y1="40" x2="810" y2="70"/>
+    <line x1="810" y1="70" x2="770" y2="140"/>
+    <line x1="770" y1="140" x2="860" y2="120"/>
+    <line x1="810" y1="70" x2="860" y2="120"/>
+    <line x1="860" y1="120" x2="910" y2="190"/>
+    <line x1="770" y1="140" x2="820" y2="210"/>
+    <line x1="820" y1="210" x2="910" y2="190"/>
+    <line x1="720" y1="40" x2="680" y2="110"/>
+    <line x1="680" y1="110" x2="770" y2="140"/>
+    <line x1="680" y1="110" x2="630" y2="180"/>
+    <line x1="630" y1="180" x2="700" y2="220"/>
+    <line x1="700" y1="220" x2="770" y2="140"/>
+
+    <!-- Cross connections -->
+    <line x1="230" y1="120" x2="310" y2="60"/>
+    <line x1="680" y1="110" x2="600" y2="60"/>
+    <line x1="600" y1="60" x2="520" y2="30"/>
+    <line x1="310" y1="60" x2="420" y2="30"/>
+  </g>
+
+  <!-- Glowing Constellation Nodes (Particles) -->
+  <g class="p-drift-1">
+    <circle cx="130" cy="80" r="3" fill="#ffffff" opacity="0.8"/>
+    <circle cx="170" cy="190" r="2.5" fill="#ffffff" opacity="0.7"/>
+    <circle cx="230" cy="120" r="3.5" fill="#00f2fe" filter="url(#glow)"/>
+    <circle cx="770" cy="140" r="3.5" fill="#00f2fe" filter="url(#glow)"/>
+    <circle cx="860" cy="120" r="3" fill="#4facfe" opacity="0.8"/>
+    <circle cx="680" cy="110" r="3" fill="#ffffff" opacity="0.7"/>
+  </g>
+
+  <g class="p-drift-2">
+    <circle cx="60" cy="40" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="90" cy="150" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="150" cy="50" r="2.5" fill="#ffffff" opacity="0.7"/>
+    <circle cx="110" cy="230" r="2" fill="#ffffff" opacity="0.4"/>
+    <circle cx="310" cy="60" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="420" cy="30" r="2" fill="#ffffff" opacity="0.4"/>
+    <circle cx="520" cy="30" r="2" fill="#ffffff" opacity="0.4"/>
+    <circle cx="600" cy="60" r="2.5" fill="#ffffff" opacity="0.5"/>
+    <circle cx="720" cy="40" r="2.5" fill="#ffffff" opacity="0.6"/>
+    <circle cx="810" cy="70" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="910" cy="190" r="2.5" fill="#ffffff" opacity="0.5"/>
+    <circle cx="820" cy="210" r="2" fill="#ffffff" opacity="0.4"/>
+    <circle cx="630" cy="180" r="2" fill="#ffffff" opacity="0.5"/>
+    <circle cx="700" cy="220" r="2" fill="#ffffff" opacity="0.4"/>
+  </g>
+
+  <!-- Typography matching arilson.com.br hero section -->
+  <!-- Tag line -->
+  <text x="60" y="65" class="code-tag">&lt;span&gt; Olá, meu nome é &lt;/span&gt;</text>
+
+  <!-- Name -->
+  <text x="60" y="118" class="name-title">Arilson Lima</text>
+
+  <!-- Role with cursor -->
+  <text x="60" y="156" class="role-title">Engenheiro de Software &amp; Dev <tspan fill="url(#cyanGrad)">Full-Stack</tspan></text>
+  <text x="445" y="156" class="cursor">_</text>
+
+  <!-- Description code tag -->
+  <text x="60" y="194" class="sub-desc">&lt;p&gt; Especialista em TypeScript, Python, Next.js &amp; Agentes Avançados de IA &lt;/p&gt;</text>
+
+  <!-- Mini Tech Pills Bar inside header -->
+  <g transform="translate(60, 215)">
+    <rect width="115" height="24" rx="12" fill="#1e293b" opacity="0.8"/>
+    <text x="57" y="16" class="badge-text" text-anchor="middle">⚡ Full-Stack</text>
+
+    <rect x="125" width="130" height="24" rx="12" fill="#1e293b" opacity="0.8"/>
+    <text x="190" y="16" class="badge-text" text-anchor="middle">🤖 Agentes de IA</text>
+
+    <rect x="265" width="135" height="24" rx="12" fill="#1e293b" opacity="0.8"/>
+    <text x="332" y="16" class="badge-text" text-anchor="middle">🌐 Next.js &amp; FastAPI</text>
+
+    <rect x="410" width="125" height="24" rx="12" fill="#1e293b" opacity="0.8"/>
+    <text x="472" y="16" class="badge-text" text-anchor="middle">🛠️ Automação</text>
+  </g>
+</svg>
