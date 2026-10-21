@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=Arilson%20Lima&fontSize=46&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20Full-Stack&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=Arilson%20Lima&fontSize=46&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20Full-Stack%20%26%20IA&descAlignY=62&descAlign=50" width="100%" />
 
   <!-- Readme Typing SVG -->
   <a href="https://arilson.com.br">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%F0%9F%91%8B;Engenheiro+de+Software+%F0%9F%9A%80;Desenvolvimento+Full-Stack+%F0%9F%92%BB;TypeScript%2C+Python%2C+Node.js+%26+Next.js;Criando+solu%C3%A7%C3%B5es+robustas+e+escal%C3%A1veis+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%F0%9F%91%8B;Engenheiro+de+Software+%F0%9F%9A%80;Desenvolvimento+Full-Stack+%F0%9F%92%BB;TypeScript%2C+Python%2C+Node.js+%26+Next.js;Arquitetura+de+Agentes+de+IA+%26+Sistemas+Escal%C3%A1veis+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -36,16 +36,21 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Software** focado no desenvolvimento de sistemas robustos, arquiteturas escaláveis e soluções digitais modernas de ponta a ponta.
+Sou **Engenheiro de Software** focado em desenvolvimento Full-Stack de alta performance, arquitetura de sistemas distribuídos e infraestrutura avançada para **Agentes de Inteligência Artificial**.
 
-Tenho sólida experiência no ciclo completo de desenvolvimento (front-end e back-end), criação de APIs de alta performance, integração com sistemas inteligentes, agentes autônomos e automação de fluxos complexos.
+Minha trajetória une desenvolvimento sólido de software a resultados práticos no mundo real:
+- 🚀 **Impacto na AlfaRodobus:** Arquitetei pipelines de automação operacional que reduziram processos diários de 40 minutos para 1 clique (**-80% de tempo**) e integrei sistemas de **reconhecimento facial** para controle de acesso biométrico de frotas.
+- 🤖 **Engenharia de IA & Agentes Autônomos:** Desenvolvedor de ferramentas de governança determinística, servidores **MCP (Model Context Protocol)** e motores de economia de tokens para agentes autônomos no Antigravity CLI.
+- 🌐 **Sistemas Distribuídos & Full-Stack:** Desenvolvimento de ponta a ponta com TypeScript, Next.js, Node.js, Python (FastAPI/Django) e microsserviços conteinerizados em Docker.
 
-- 🔭 **Projetos em Destaque:** 
-  - Desenvolvendo o [gsd-agy-kit](https://github.com/ARILSONLIMA/gsd-agy-kit) (Governança, compatibilidade e economia de tokens para agentes no Antigravity CLI).
-  - Criador do [raio-x-da-conta](https://github.com/ARILSONLIMA/raio-x-da-conta) (Plataforma inteligente para gestão e análise sustentável de consumo de recursos).
-- 🧠 **Áreas de Atuação:** Engenharia de Software, Desenvolvimento Full-Stack, Arquitetura de Sistemas, Agentes de IA e Automação de Processos.
-- 🌱 **Foco Atual:** Model Context Protocol (MCP), LLM Tooling, FastAPI, Next.js e Engenharia de Software aplicada a Agentes Inteligentes.
-- 💬 **Vamos conversar sobre:** Desenvolvimento de software moderno, ecossistema TypeScript/Python, integração de IA em produtos e soluções inovadoras.
+---
+
+### 🚀 Projetos em Destaque
+
+- 🧠 **[gsd-agy-kit](https://github.com/ARILSONLIMA/gsd-agy-kit) & [spine-kit](https://github.com/ARILSONLIMA):** Kits de engenharia, governança declarativa e runtime MCP de alta performance para agentes autônomos de IA, focados em auto-cura e token economics.
+- ⚡ **[raio-x-da-conta](https://github.com/ARILSONLIMA/raio-x-da-conta):** Plataforma Full-Stack inteligente construída em Next.js e TypeScript para auditoria e simulação de consumo sustentável de recursos com regras de negócio seguras (JWT, Bcrypt).
+- 🛡️ **SSHVPN:** Arquitetura distribuída resiliente para controle de acessos privados, túneis SSH/V2Ray (VMess) com painel central multi-tenant e daemons em servidores VPS Linux.
+- 📋 **GlassKanban:** Aplicação local ultra-rápida com interface Glassmorphism, backend em Express e persistência embarcada em SQLite (`better-sqlite3`).
 
 ---
 
@@ -61,9 +66,9 @@ Tenho sólida experiência no ciclo completo de desenvolvimento (front-end e bac
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-#### 🤖 Inteligência Artificial & Frameworks
+#### 🤖 Inteligência Artificial, Frameworks & Web
 <p align="left">
-  <img src="https://img.shields.io/badge/AI_Agents_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI & LLMs" />
+  <img src="https://img.shields.io/badge/AI_Agents_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents & LLMs" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -71,10 +76,11 @@ Tenho sólida experiência no ciclo completo de desenvolvimento (front-end e bac
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
-#### 🗄️ Bancos de Dados, DevOps & IoT
+#### 🗄️ Bancos de Dados, DevOps & Infra
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -106,5 +112,5 @@ Tenho sólida experiência no ciclo completo de desenvolvimento (front-end e bac
 ---
 
 <div align="center">
-  <sub>Construído com dedicação por <b><a href="https://arilson.com.br">Arilson Lima</a></b>. Vamos construir algo incrível juntos! 🚀</sub>
+  <sub>Construído por <b><a href="https://arilson.com.br">Arilson Lima</a></b>. Vamos construir algo incrível juntos! 🚀</sub>
 </div>
