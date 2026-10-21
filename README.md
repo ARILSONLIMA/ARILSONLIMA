@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=Arilson%20Lima&fontSize=46&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20%7C%20Ferramentas%20Avan%C3%A7adas%20de%20IA&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=200&section=header&text=Arilson%20Lima&fontSize=46&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20Full-Stack&descAlignY=62&descAlign=50" width="100%" />
 
   <!-- Readme Typing SVG -->
   <a href="https://arilson.com.br">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+%26+Full-Stack+%F0%9F%92%BB;Especialista+em+Ferramentas+Avan%C3%A7adas+de+I.A.+%F0%9F%A4%96;Engenharia+de+Agentes%2C+TypeScript+%26+Python;Criando+solu%C3%A7%C3%B5es+inovadoras+e+escal%C3%A1veis+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%F0%9F%91%8B;Engenheiro+de+Software+%F0%9F%9A%80;Desenvolvimento+Full-Stack+%F0%9F%92%BB;TypeScript%2C+Python%2C+Node.js+%26+Next.js;Criando+solu%C3%A7%C3%B5es+robustas+e+escal%C3%A1veis+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -36,14 +36,14 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **desenvolvedor de sistemas e software** focado na criação de soluções robustas, arquiteturas escaláveis e no desenvolvimento de **ferramentas avançadas de Inteligência Artificial**. 
+Sou **Engenheiro de Software** focado no desenvolvimento de sistemas robustos, arquiteturas escaláveis e soluções digitais modernas de ponta a ponta.
 
-Tenho experiência prática no ciclo completo de desenvolvimento (front-end e back-end), criação de APIs de alta performance, integração com LLMs, engenharia de agentes autônomos e automação de fluxos complexos.
+Tenho sólida experiência no ciclo completo de desenvolvimento (front-end e back-end), criação de APIs de alta performance, integração com sistemas inteligentes, agentes autônomos e automação de fluxos complexos.
 
 - 🔭 **Projetos em Destaque:** 
   - Desenvolvendo o [gsd-agy-kit](https://github.com/ARILSONLIMA/gsd-agy-kit) (Governança, compatibilidade e economia de tokens para agentes no Antigravity CLI).
   - Criador do [raio-x-da-conta](https://github.com/ARILSONLIMA/raio-x-da-conta) (Plataforma inteligente para gestão e análise sustentável de consumo de recursos).
-- 🧠 **Áreas de Atuação:** Desenvolvimento Full-Stack, Arquitetura de Software, Ferramentas de IA & Agentes Autônomos, Automação de Processos e IoT.
+- 🧠 **Áreas de Atuação:** Engenharia de Software, Desenvolvimento Full-Stack, Arquitetura de Sistemas, Agentes de IA e Automação de Processos.
 - 🌱 **Foco Atual:** Model Context Protocol (MCP), LLM Tooling, FastAPI, Next.js e Engenharia de Software aplicada a Agentes Inteligentes.
 - 💬 **Vamos conversar sobre:** Desenvolvimento de software moderno, ecossistema TypeScript/Python, integração de IA em produtos e soluções inovadoras.
 
